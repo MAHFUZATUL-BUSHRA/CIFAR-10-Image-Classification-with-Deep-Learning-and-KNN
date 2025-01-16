@@ -20,7 +20,19 @@ This project explores the CIFAR-10 dataset, a standard benchmark dataset for ima
 
 ### Visualization and Insights:
  * Visualized model training history, including loss and accuracy curves.
+### KNN:
+ ![p1](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/knn%20accuracy.png)
+### Nadam:
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/nadam%20accuracy.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/nadam%20loss.png)
+### RMS:
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/rms%20accuracy.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/rms%20loss.png)
+### SGD:
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/sgd_%20accuracy.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/sgd%20loss.png)
  * Plotted cross-validation results for KNN with error bars to demonstrate model stability.
+![p](https://github.com/MAHFUZATUL-BUSHRA/CIFAR-10-Image-Classification-with-Deep-Learning-and-KNN/blob/main/Results/cross%20validation.png)
 
 ## Tools and Libraries Used:
    * TensorFlow/Keras: Deep Learning framework for CNN implementation.
